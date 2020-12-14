@@ -1,7 +1,7 @@
 # Проект «Большое путешествие» [![Check status][check-image]][check-url]
 
 * Студент: [Константин Соколов](https://up.htmlacademy.ru/ecmascript/13/user/243814).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Рожков](https://htmlacademy.ru/profile/id1069033).
 
 ---
 
